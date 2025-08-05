@@ -10,12 +10,7 @@ A curated collection of backend-focused projects built with Node.js, Express, an
 - (Optional) HTML/CSS/JS for basic frontends
 
 ## 📁 Project List
-- ✅ Task Manager API
-- ✅ Blog System with MySQL
-- 🚧 Auth System with JWT
-- 🚧 Notes App (Full Stack)
+
 
 ## 🎯 Purpose
 - Backend development practice
-- Interview prep
-- Portfolio showcase
